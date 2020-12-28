@@ -1,1 +1,1 @@
-# Learning MOdern Javascript
+# Learning Modern Javascript
